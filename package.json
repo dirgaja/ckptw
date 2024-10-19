@@ -1,5 +1,5 @@
 {
-  "name": "@mengkodingan/ckptw",
+  "name": "@dirgaja/ckptw",
   "version": "4.3.6",
   "description": "Create powerful WhatsApp bots easily",
   "main": "lib/index.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mengkodingan/ckptw.git"
+    "url": "git+https://github.com/dirgaja/ckptw.git"
   },
   "bugs": {
-    "url": "https://github.com/Mengkodingan/ckptw/issues"
+    "url": "https://github.com/dirgaja/ckptw/issues"
   },
-  "homepage": "https://github.com/Mengkodingan/ckptw#readme",
+  "homepage": "https://github.com/dirgaja/ckptw#readme",
   "keywords": [
     "whatsapp",
     "whatsapp-bot",
@@ -30,7 +30,7 @@
     "whatsapp-api",
     "md"
   ],
-  "author": "JstnLT <jastinlinggar@gmail.com> (jstnlt.my.id) and friends.",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "link-preview-js": "^3.0.5",
@@ -54,5 +54,9 @@
     "link-preview-js": {
       "optional": true
     }
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example"
   }
 }
